@@ -9,3 +9,5 @@ You can also do `npm install` and `npm start` to run in on a local web server to
 Also found this repo [dennythecoder/agile-manifesto-authors](https://github.com/dennythecoder/agile-manifesto-authors) with contact info to the Manifesto's authors.
 
 Please also see the reveal.js [README](README.revealjs.md) and the [reveal.js GitHub repo](https://github.com/hakimel/reveal.js/).
+
+The [LICENSE](LICENSE) is from the reveal.js project.
